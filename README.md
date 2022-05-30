@@ -18,5 +18,5 @@ npm install chromedriver
 
 ### Iniciar o Teste
 ```
-npm test ./test/homepage.js
+node .\login.js(nome do arquivo desejado)
 ```
